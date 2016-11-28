@@ -58,11 +58,9 @@ ExportedObj/
 .Spotlight-V100
 
 .Trashes
-.VolumeIcon.icns
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+Icon?
+
+ehthumbs.db
+
+Thumbs.db
